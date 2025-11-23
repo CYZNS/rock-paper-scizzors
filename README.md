@@ -1,7 +1,7 @@
 # 🎮 Rock Paper Scissors (WinForms)
 
 A robust, object-oriented implementation of the classic game built with **C#** and **.NET Windows Forms**.
-https://github.com/CYZNS/rock-paper-scizzors/blob/main/gameScreenShot.png
+![Game Screenshot](gameScreenShot.png)
 
 ## 🚀 Features
 - **3 Game Modes:** Best of 3, Best of 5, and Infinite.
