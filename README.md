@@ -9,4 +9,4 @@ A robust, object-oriented implementation of the classic game built with **C#** a
 - **Smart State Management:** Uses Structs and Enums to track game state reliably.
 
 ## 🛠️ How it works
-This project demonstrates the transition from basic scripting to structured engineering. It solves common problems like "Random Number Repetition" and "Magic Numbers" by using professional C# patterns.<img width="804" height="219" alt="image" src="https://github.com/user-attachments/assets/886367b8-12ab-412a-97b3-c721e26bac01" />
+This project demonstrates the transition from basic scripting to structured engineering. It solves common problems like "Random Number Repetition" and "Magic Numbers" by using professional C# patterns.<img width="804" 
